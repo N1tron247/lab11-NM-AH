@@ -1,3 +1,7 @@
+# https://github.com/N1tron247/lab11-NM-AH
+# Partner 1: Neil Mehrotra
+# Partner 2: Alexa Hatoum
+
 import unittest
 from calculator import *
 
